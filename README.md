@@ -45,15 +45,15 @@ Quand je ne suis pas en train de coder, vous pouvez me trouver en train de surfe
 ---
 
 ## 📫 Me contacter
-- **LinkedIn** : [Ton lien LinkedIn ici](https://www.linkedin.com/)
-- **Portfolio** : [Ton site personnel si applicable](https://)
-- **Email** : [Ton email ici](mailto:tonemail@example.com)
+- **LinkedIn** : [](https://www.linkedin.com/)
+- **Portfolio** : [](https://)
+- **Email** : [tomwilkwilk@gmail.com](mailto:tonemail@example.com)
 
 ---
 
 ### 🚀 Projets en cours
 - **Rubik's Cube virtuel avec IA** : Implémentation d'une solution d'IA utilisant le Deep Learning pour résoudre un Rubik's Cube.
-- **Application Web "Vivre aux Lilas"** : Génération de pages statiques à partir de données dynamiques.
+
 
 ---
 
