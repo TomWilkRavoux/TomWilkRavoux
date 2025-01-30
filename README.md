@@ -53,6 +53,7 @@ Quand je ne suis pas en train de coder, vous pouvez me trouver en train de surfe
 
 ### 🚀 Projets en cours
 - **Rubik's Cube virtuel avec IA** : Implémentation d'une solution d'IA utilisant le Deep Learning pour résoudre un Rubik's Cube.
+- **Extension Navigateur** : Implémentation d'une extension de navigateur pour automatiser des prompts.
 
 
 ---
