@@ -46,14 +46,16 @@ Quand je ne suis pas en train de coder, vous pouvez me trouver en train de surfe
 
 ## 📫 Me contacter
 - **LinkedIn** : [](https://www.linkedin.com/)
-- **Portfolio** : [](https://)
-- **Email** : [tomwilkwilk@gmail.com](mailto:tonemail@example.com)
+- **Portfolio** : [](https://portfolio-snowgous-projects.vercel.app/)
+- **Email** : [snowgoupro@gmail.com](mailto:snowgoupro@gmail.com)
 
 ---
 
 ### 🚀 Projets en cours
-- **Rubik's Cube virtuel avec IA** : Implémentation d'une solution d'IA utilisant le Deep Learning pour résoudre un Rubik's Cube.
-- **Extension Navigateur** : Implémentation d'une extension de navigateur pour automatiser des prompts.
+- **Projet MSPR**✅
+- **Portfolio**✅
+- **Rubik's Cube virtuel avec IA** : Implémentation d'une solution d'IA utilisant le Deep Learning pour résoudre un Rubik's Cube.⏳	
+- **Extension Navigateur** : Implémentation d'une extension de navigateur pour résumer les pages web. ✅
 
 
 ---
