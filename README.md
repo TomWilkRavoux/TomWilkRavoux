@@ -46,7 +46,7 @@ Quand je ne suis pas en train de coder, vous pouvez me trouver en train de surfe
 
 ## 📫 Me contacter
 - **LinkedIn** : [](https://www.linkedin.com/)
-- **Portfolio** : [https://portfolio-snowgous-projects.vercel.app] (https://portfolio-snowgous-projects.vercel.app/)
+- **Portfolio** : [https://portfolio-snowgous-projects.vercel.app]
 - **Email** : [snowgoupro@gmail.com](mailto:snowgoupro@gmail.com)
 
 ---
